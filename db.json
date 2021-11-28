@@ -1,43 +1,48 @@
 {
-  "articles":[
+  "articles": [
     {
       "id": 1,
-      "img": {RoyalPlacePng},
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/royal-place.png?raw=true",
       "alt": "royal-place",
       "title": "Royal Palace",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
-    },{
+    },
+    {
       "id": 2,
-      "img": {DemonWingPng},
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/denon-wing.png?raw=true",
       "alt": "denon-wing",
       "title": "Denon Wing",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
-    },{
+    },
+    {
       "id": 3,
-      "img": {ColonnadePerlaultPng},
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/colonnade-perlault.png?raw=true",
       "alt": "colonnade-perlault",
       "title": "Colonnade Perrault",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
-    },{
+    },
+    {
       "id": 4,
-      "img": {GreekHallPng},
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/greek-hall.png?raw=true",
       "alt": "greek-hall",
       "title": "Greek hall",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
-    },{
+    },
+    {
       "id": 5,
-      "img": {MonaLizaPng},
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/mona-liza.png?raw=true",
       "alt": "mona-liza",
       "title": "Mona Lisa",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
-    },{
+    },
+    {
       "id": 6,
-      "img": {NightPalacePng},
+      "img": "https://github.com/Ann2206/MyLove/blob/main/assets/img/night-palace.png?raw=true",
       "alt": "night-palace",
       "title": "Night Palace",
       "p": "360° Virtual Tour",
