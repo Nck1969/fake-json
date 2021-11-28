@@ -1,27 +1,19 @@
 {
-  "posts": [
+  "articles":[
     {
       "id": 1,
-      "title": "title1"
-    },
-    {
+      "img": "RoyalPlacePng",
+      "alt": "royal-place",
+      "title": "Royal Palace",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
+    },{
       "id": 2,
-      "title": "title2"
+      "img": "DemonWingPng",
+      "alt": "denon-wing",
+      "title": "Denon Wing",
+      "p": "360° Virtual Tour",
+      "p1": "Google Street Panorama View"
     },
-    {
-      "id": 3,
-      "title": "title3"
-    },
-    {
-      "id": 4,
-      "title": "title4"
-    },
-    {
-      "id": 5,
-      "title": "title5"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
