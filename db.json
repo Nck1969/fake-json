@@ -80,5 +80,37 @@
       "href": "#contacts",
       "text": "Contacts"
     }
+  ],
+  "socials": [
+    {
+      "id": 1,
+      "href": "https://www.youtube.com/user/louvre",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Youtube.svg",
+      "alt": "Youtube"
+    },
+    {
+      "id": 2,
+      "href": "https://www.instagram.com/museelouvre/",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Instagram.svg",
+      "alt": "Instagram"
+    },
+    {
+      "id": 3,
+      "href": "https://www.facebook.com/museedulouvre",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Facebook.svg",
+      "alt": "Facebook"
+    },
+    {
+      "id": 4,
+      "href": "http://twitter.com/museelouvre",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Twitter.svg",
+      "alt": "Twitter"
+    },
+    {
+      "id": 5,
+      "href": "https://www.pinterest.fr/museedulouvre/",
+      "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Pinterest.svg",
+      "alt": "Pinterest"
+    }
   ]
 }
