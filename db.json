@@ -48,5 +48,37 @@
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
     }
+  ],
+  "navigation": [
+    {
+      "id": 1,
+      "href": "#visiting",
+      "text": "Visiting"
+    },
+    {
+      "id": 2,
+      "href": "#explore",
+      "text": "Explore"
+    },
+    {
+      "id": 1,
+      "href": "#video",
+      "text": "Video"
+    },
+    {
+      "id": 1,
+      "href": "#gallery",
+      "text": "Galery"
+    },
+    {
+      "id": 1,
+      "href": "#tickets",
+      "text": "Tickets"
+    },
+    {
+      "id": 1,
+      "href": "#contacts",
+      "text": "Contacts"
+    }
   ]
 }
