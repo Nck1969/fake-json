@@ -2,42 +2,42 @@
   "articles":[
     {
       "id": 1,
-      "img": RoyalPlacePng,
+      "img": {RoyalPlacePng},
       "alt": "royal-place",
       "title": "Royal Palace",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
     },{
       "id": 2,
-      "img": DemonWingPng,
+      "img": {DemonWingPng},
       "alt": "denon-wing",
       "title": "Denon Wing",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
     },{
       "id": 3,
-      "img": ColonnadePerlaultPng,
+      "img": {ColonnadePerlaultPng},
       "alt": "colonnade-perlault",
       "title": "Colonnade Perrault",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
     },{
       "id": 4,
-      "img": GreekHallPng,
+      "img": {GreekHallPng},
       "alt": "greek-hall",
       "title": "Greek hall",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
     },{
       "id": 5,
-      "img": MonaLizaPng,
+      "img": {MonaLizaPng},
       "alt": "mona-liza",
       "title": "Mona Lisa",
       "p": "360° Virtual Tour",
       "p1": "Google Street Panorama View"
     },{
       "id": 6,
-      "img": NightPalacePng,
+      "img": {NightPalacePng},
       "alt": "night-palace",
       "title": "Night Palace",
       "p": "360° Virtual Tour",
