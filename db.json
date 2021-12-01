@@ -114,3 +114,20 @@
     }
   ],
   "ticketsType": [
+    {
+      "id": 1,
+      "idRb": 1,
+      "text": "Permanent exhibition"
+    },
+    {
+      "id": 2,
+      "idRb": 2,
+      "text": "Temporary exhibition"
+    },
+    {
+      "id": 3,
+      "idRb": 3,
+      "text": "Combined Admission"
+    }
+  ]
+}
