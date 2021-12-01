@@ -61,22 +61,22 @@
       "text": "Explore"
     },
     {
-      "id": 1,
+      "id": 3,
       "href": "#video",
       "text": "Video"
     },
     {
-      "id": 1,
+      "id": 4,
       "href": "#gallery",
-      "text": "Galery"
+      "text": "Gallery"
     },
     {
-      "id": 1,
+      "id": 5,
       "href": "#tickets",
       "text": "Tickets"
     },
     {
-      "id": 1,
+      "id": 6,
       "href": "#contacts",
       "text": "Contacts"
     }
@@ -112,5 +112,5 @@
       "src": "https://raw.githubusercontent.com/Ann2206/MyLove/bbd05f945ad75522d6e8a1e1c6d376a059a63c9a/assets/svg/Pinterest.svg",
       "alt": "Pinterest"
     }
-  ]
-}
+  ],
+  "ticketsType": [
